@@ -27,7 +27,7 @@ nav img{
 	width: 250px;
 }
 .def{
-	margin-top: 400px;
+	margin-top: 100px;
 }
 
 .item{
@@ -66,16 +66,20 @@ nav img{
 main {
     margin-left: 300px;
 	display: flex;
-	min-height: 85vh;
+	min-height: 95vh;
 	flex-direction: column;
 }
 #rodape{
 	background-color: #7A5116;
 	margin-left: 250px;
 	text-align: center;
-	min-height: 15vh;
+	min-height: 5vh;
 	flex-direction: unset;
 }
 #rodape img{
 	width: 30px;
+}
+.form{
+	display: flex;
+	justify-content: center;
 }
